@@ -1,5 +1,5 @@
-<H3> Name : KISHORE B </H3>
-<H3>Register No: 212223240073 </H3>
+<H3> Name : TH KARTHIK KRISHNA </H3>
+<H3>Register No: 212223240067 </H3>
 <H3> Experiment 1 </H3>
 <H3>DATE:22/03/2025 </H3>
 
